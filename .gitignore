@@ -1,0 +1,5 @@
+node_modules/
+yarn.lock
+uploads/
+*-[0-9].js
+src/
